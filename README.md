@@ -1,4 +1,5 @@
 # Simple Youtube App
+A simple application for introduction react 
 
 ### Getting Started
 ```
