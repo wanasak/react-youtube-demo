@@ -8,3 +8,14 @@ A simple application for introduction react
 > npm install
 > npm start
 ```
+
+### Keywords
+```
+> Function based component vs Class based component
+> JSX
+> State
+> React and ReactDOM
+> Import and Export
+> Events
+> Render
+```
